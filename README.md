@@ -7,7 +7,8 @@
 
 <br>
 
-<p float="right">
+
+<p style="text-align: center;">
   <img src="https://github.com/user-attachments/assets/41a398ed-f914-46ee-acd2-1c02ab16b9a0" width="150" />
 </p>
 
