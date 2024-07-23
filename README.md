@@ -1,4 +1,4 @@
-##### I found a dataset containing rocket(flight) alarms in Israel, scraped from the official home alert site, and did some data analysis on it to gain some insights for myself and other curious people. 
+##### I found a dataset containing rocket(flight) alarms in Israel scraped from the official home alert site and decided to do some data analysis on it to gain insights for myself and other curious people. 
 ##### Code: [Here](https://github.com/ToriiX/miniprojects/blob/main/Rocketalarms.ipynb)
 
 
