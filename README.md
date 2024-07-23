@@ -3,17 +3,21 @@
 
 
 
-### Rocket Alarms in Israel.
+# Rocket Alarms in Israel.
+
 <br>
+
+
+
 
 #### What period is the data collected from?
 
 The dataset contains alarms from 20th of May 2020 to 4th of April 2024.
 
-A total of 16.271 rocket alarms went off in Israel during this time, with the two busiest days on 7th of October 2023 (4351 alarms) and 11 of October 2023 (104 alarms)
+A total of 16.271 rocket alarms went off in Israel during this time, with the two busiest days on 7th of October 2023 (4351 alarms) and 11 of October 2023 (1044 alarms)
 <br>
 
-#### Timeline:
+
 
 ![image](https://github.com/user-attachments/assets/2c7e8c92-c750-454e-a760-c310eaa8992d)
 <br>
