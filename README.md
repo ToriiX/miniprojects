@@ -74,7 +74,7 @@
 
 <br>
 
-### What specific times of the day did the inhabitants of the Tel-Aviv area run most to the shelters?
+### What specific times of the day did the inhabitants of the Tel-Aviv area the run most to the shelters?
 <br>
 
 ![image](https://github.com/user-attachments/assets/964fb106-7b50-4e7d-8c3c-c5d7b9cdd15e)
