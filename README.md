@@ -13,7 +13,6 @@
 </p>
 
 
-### Which period is the data collected from?
 
 The dataset contains alarms from 20th of May 2020 to 4th of April 2024.
 
