@@ -1,8 +1,11 @@
-### I found the dataset which is contains data on rocket(flight) alarms in Israel, scraped from the official home alert site, and decised to do some data analysis on it to find insights.
+##### I found a dataset containing rocket(flight) alarms in Israel, scraped from the official home alert site, and did some data analysis on it to gain some insights for myself and other curious people. 
+##### Code:[Here](https://github.com/ToriiX/miniprojects/blob/main/Rocketalarms.ipynb)
 
 
 
-## What period is the data collected from?
+
+
+### What period is the data collected from?
 
 The dataset contains alarms from 20th of May 2020 to 4th of April 2024.
 
