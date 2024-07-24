@@ -25,7 +25,7 @@
 <br>
 
 
-### Minute granularity of times with the most alarms:
+### Minute granularity of specific times with the most alarms going off:
 <br>
 
 
@@ -34,7 +34,7 @@
 <br>
 
 
-### Without looking at the date and only considering the time of the day at a minute granularity, these were the overall busiest times in the day  with rocket alarms in Israel:
+### Without looking at the date and only considering the time of the day at a minute granularity, these were the overall busiest times in the day with rocket alarms going off in Israel:
 <br>
 
 ![image](https://github.com/user-attachments/assets/8e489cf7-8f63-475c-9e0e-34e0bd675eb2)
