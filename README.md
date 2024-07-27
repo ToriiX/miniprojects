@@ -98,9 +98,9 @@
 
 ### Which places in Tel Aviv area had the most alarms going off?
 1. Holon	65
-2. 
+   
 3. Bat Yam	48
-4. 
+ 
 3	Rishon LeZion - West	47
 
 4	Azor	45
