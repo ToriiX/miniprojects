@@ -51,7 +51,7 @@
 
 <br>
 
-### Rockt alarms distribution on an hourly scale:
+### Rockt alarms distribution on an hourly scale (20th of May 2020 to 4th of April 2024):
 
 <br>
 
