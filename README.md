@@ -16,7 +16,7 @@
 
 ### The dataset contains alarm alerts from 20th of May 2020 to 4th of April 2024. Many rockets have been launched since, especially towards the north of Israel. 
 
-### A total of 16.271 rocket alarms went off in Israel during this time, distributed over 234 days. The busiest days were on the 7th of October 2023 (4351 alarms) and the 11th of October 2023 (1044 alarms). Many of the rockets are shot directly towards civilian areas with high population density.
+### A total of 16.271 rocket alarms went off in Israel during this time, distributed over 234 days. The busiest days were on the 7th of October 2023 (4351 alarms) and the 11th of October 2023 (1044 alarms). Many of the rockets were and continue to be shot directly towards civilian areas with high population density.
 <br>
 
 
