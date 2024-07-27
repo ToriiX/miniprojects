@@ -70,7 +70,7 @@
 <br>
 
 
-### Which places had the most rocket alarms going off? 
+### Which places had the most rocket alarms going off and how many times did the inhabitants have to run to the shelters? 
 
 <br>
 
