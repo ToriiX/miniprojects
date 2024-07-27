@@ -26,6 +26,7 @@
 
 
 ### Dates with the most alarms going off:
+
 <br>
 
 
@@ -42,6 +43,7 @@
 
 <br>
 ### At a minute granularity, these were the overall busiest times with rocket alarms going off in Israel:
+
 <br>
 
 ![image](https://github.com/user-attachments/assets/9fdde77e-da77-48f7-a961-faecef2c0eaa)
@@ -59,6 +61,7 @@
 <br>
 
 ### Which regions had the most rocket alarms going off?
+
 <br>
 
 ![image](https://github.com/user-attachments/assets/d6fc516d-6a75-4909-823c-6bb45ca6ca16)
@@ -68,6 +71,7 @@
 
 
 ### Which places had the most rocket alarms going off? 
+
 <br>
 
 
@@ -75,6 +79,7 @@
 
 
 ### Which regions had the most days with rocket alarms going off?
+
 <br>
 
 ![image](https://github.com/user-attachments/assets/8f22d04c-0f13-400a-b6ed-fed4ecd5ed99)
@@ -83,6 +88,7 @@
 <br>
 
 ### Which regions had the most rocket alarms at a specific time of day?
+
 <br>
 
 ![image](https://github.com/user-attachments/assets/ce57a19d-26a8-4dc9-bcd7-8603fa1b9e06)
@@ -92,6 +98,7 @@
 
 
 ### How was the timeline distribution of the 1264 rocket alarms going off in the Tel Aviv area?
+
 <br>
 
 ![image](https://github.com/user-attachments/assets/d22d8daa-e580-49f0-bb82-6e1795102ee9)
@@ -99,23 +106,19 @@
 <br>
 
 ### What specific times of the day did the inhabitants of the Tel-Aviv area run the most to the shelters?
+
 <br>
 
 ![image](https://github.com/user-attachments/assets/964fb106-7b50-4e7d-8c3c-c5d7b9cdd15e)
 
 
-### Which places in Tel Aviv area had the most alarms going off?
-1. Holon	65
-   
-3. Bat Yam	48
- 
-3	Rishon LeZion - West	47
+### Which places in Tel-Aviv area had the most alarms going off?
 
-4	Azor	45
+<br>
 
-5	Tel Aviv - South and Jaffa	42
 
-6. Ramat Gan - West	41
+![image](https://github.com/user-attachments/assets/5f9d6d56-9416-4af9-afa5-010d1a42eddd)
+
 
 
 
