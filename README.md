@@ -16,7 +16,7 @@
 
 ### The dataset contains alarm alerts from 20th of May 2020 to 4th of April 2024.
 
-### A total of 16.271 rocket alarms went off in Israel during this time, with the two busiest days on 7th of October 2023 (4351 alarms) and 11 of October 2023 (1044 alarms)
+### A total of 16.271 rocket alarms went off in Israel during this time, and distributed over 234 days. The two busiest days were on 7th of October 2023 (4351 alarms) and on 11 of October 2023 (1044 alarms). 
 <br>
 
 
@@ -25,31 +25,52 @@
 <br>
 
 
-### Minute granularity of specific times with the most alarms going off:
+### Dates with the most alarms going off:
 <br>
 
 
-![image](https://github.com/user-attachments/assets/8a6d3b3a-5e38-4d3f-8904-13aae2906888)
+![image](https://github.com/user-attachments/assets/090ea4e0-daa2-4ab9-b13d-b891fdda2dc5)
+)
 
 <br>
 
-
-### Without looking at the date and only considering the time of the day at a minute granularity, these were the overall busiest times in the day with rocket alarms going off in Israel:
-<br>
-
-![image](https://github.com/user-attachments/assets/8e489cf7-8f63-475c-9e0e-34e0bd675eb2)
+### Rocket alarms on October the 7th:
+![image](https://github.com/user-attachments/assets/ebdd2054-9ddd-472c-b9b0-b78070d18f12)
 
 <br>
+### At a minute granularity, these were the overall busiest times with rocket alarms going off in Israel:
+<br>
 
-### Most busy hours overall:
-![image](https://github.com/user-attachments/assets/00d1a9f3-4852-4b59-aedc-9583e622b0cf)
+![image](https://github.com/user-attachments/assets/9fdde77e-da77-48f7-a961-faecef2c0eaa)
+)
+
+<br>
+
+### Rockt alarms distribution on an hourly scale:
+![image](https://github.com/user-attachments/assets/89b6332f-9e8e-421d-93bb-398b9c0ef180)
+)
 
 <br>
 
 ### Which regions had the most rocket alarms going off?
 <br>
 
-![image](https://github.com/user-attachments/assets/28eebb05-fa1b-41cc-94f5-11cc4eaabb01)
+![image](https://github.com/user-attachments/assets/d6fc516d-6a75-4909-823c-6bb45ca6ca16)
+
+
+<br>
+
+
+### Which places had the most rocket alarms going off? 
+
+![image](https://github.com/user-attachments/assets/658dcfc0-f163-49ab-8668-b228cd25e66d)
+
+
+### Which regions had the most days with rocket alarms going off?
+<br>
+
+![image](https://github.com/user-attachments/assets/8f22d04c-0f13-400a-b6ed-fed4ecd5ed99)
+
 
 <br>
 
@@ -60,12 +81,7 @@
 
 <br>
 
-### On a smaller granularity, which places had the most rocket alarms in total going off?
-<br>
 
-![image](https://github.com/user-attachments/assets/3efa671a-1209-4c10-b932-4fa9b82aad7d)
-
-<br>
 
 ### How was the timeline distribution of the 1264 rocket alarms going off in the Tel Aviv area?
 <br>
@@ -79,6 +95,14 @@
 
 ![image](https://github.com/user-attachments/assets/964fb106-7b50-4e7d-8c3c-c5d7b9cdd15e)
 
+
+### Which places in Tel Aviv area had the most alarms going off?
+1. Holon	65
+2. Bat Yam	48
+3	Rishon LeZion - West	47
+4	Azor	45
+5	Tel Aviv - South and Jaffa	42
+6. Ramat Gan - West	41
 
 
 
