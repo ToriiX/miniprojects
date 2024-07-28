@@ -21,7 +21,9 @@
 
 
 
-![image](https://github.com/user-attachments/assets/2c7e8c92-c750-454e-a760-c310eaa8992d)
+![image](https://github.com/user-attachments/assets/04241e8c-9b60-421c-95f3-7644a1d27f0a)
+
+
 <br>
 
 
@@ -30,26 +32,10 @@
 <br>
 
 
-![image](https://github.com/user-attachments/assets/090ea4e0-daa2-4ab9-b13d-b891fdda2dc5)
-)
-
-<br>
+![image](https://github.com/user-attachments/assets/ffd6a309-b363-4aba-8ca4-3a70384aaa6b)
 
 
-### Rocket alarms on October the 7th:
 
-<br>
-
-![image](https://github.com/user-attachments/assets/ebdd2054-9ddd-472c-b9b0-b78070d18f12)
-
-<br>
-
-### At a minute granularity, these were the overall busiest times with rocket alarms going off in Israel:
-
-<br>
-
-![image](https://github.com/user-attachments/assets/9fdde77e-da77-48f7-a961-faecef2c0eaa)
-)
 
 <br>
 
@@ -57,8 +43,8 @@
 
 <br>
 
-![image](https://github.com/user-attachments/assets/89b6332f-9e8e-421d-93bb-398b9c0ef180)
-)
+![image](https://github.com/user-attachments/assets/5af504b7-0779-4aa1-a5c4-9323a5e184fe)
+
 
 <br>
 
@@ -66,7 +52,8 @@
 
 <br>
 
-![image](https://github.com/user-attachments/assets/d6fc516d-6a75-4909-823c-6bb45ca6ca16)
+![image](https://github.com/user-attachments/assets/a0bc6e14-f23d-4b22-a12c-242d71710d9a)
+
 
 
 <br>
@@ -76,26 +63,18 @@
 
 <br>
 
+![image](https://github.com/user-attachments/assets/6130a742-ad02-418c-a7fe-f51a2ed52dac)
 
-![image](https://github.com/user-attachments/assets/658dcfc0-f163-49ab-8668-b228cd25e66d)
 
 
 ### Which regions had the most days with rocket alarms going off?
 
 <br>
 
-![image](https://github.com/user-attachments/assets/8f22d04c-0f13-400a-b6ed-fed4ecd5ed99)
-
-
-<br>
-
-### Which regions had the most rocket alarms at a specific time of day?
+![image](https://github.com/user-attachments/assets/6c1be8aa-4d39-44ce-953f-3a3652202f20)
 
 <br>
 
-![image](https://github.com/user-attachments/assets/ce57a19d-26a8-4dc9-bcd7-8603fa1b9e06)
-
-<br>
 
 
 
@@ -103,15 +82,10 @@
 
 <br>
 
-![image](https://github.com/user-attachments/assets/d22d8daa-e580-49f0-bb82-6e1795102ee9)
+![image](https://github.com/user-attachments/assets/fbb6fd05-f47d-49a6-95cc-7005afa4f5df)
 
 <br>
 
-### What specific times of the day did the inhabitants of the Tel-Aviv area run the most to the shelters?
-
-<br>
-
-![image](https://github.com/user-attachments/assets/964fb106-7b50-4e7d-8c3c-c5d7b9cdd15e)
 
 
 ### Which places in the Tel-Aviv area had the most alarms going off?
@@ -119,7 +93,18 @@
 <br>
 
 
-![image](https://github.com/user-attachments/assets/e4526f03-57e0-454f-9e53-3dfe0f931602)
+![image](https://github.com/user-attachments/assets/56a233eb-26f3-43ab-a220-6ad4e5edcd16)
+
+
+### What time of day did the rocket alarms in the Tel-Aviv area have the most alarms going off?
+
+![image](https://github.com/user-attachments/assets/12af8964-bd62-447a-b5e3-cd46e888278a)
+
+
+
+![image](https://github.com/user-attachments/assets/5c1b8f88-1c6f-445f-adc0-935fe5e55210)
+
+
 
 
 
