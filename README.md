@@ -21,13 +21,14 @@
 
 
 
-![image](https://github.com/user-attachments/assets/04241e8c-9b60-421c-95f3-7644a1d27f0a)
+![image](https://github.com/user-attachments/assets/833ec7fb-ae12-4b90-8cda-f2e37d94b256)
+
 
 
 <br>
 
 
-### Dates with the most alarms going off:
+### Dates with the highest count of rocket alarms going off:
 
 <br>
 
@@ -48,7 +49,7 @@
 
 <br>
 
-### Which regions had the most rocket alarms going off?
+### Which regions had the highest count of rocket alarms going off?
 
 <br>
 
@@ -59,7 +60,7 @@
 <br>
 
 
-### Which places had the most rocket alarms going off and how many times did the inhabitants have to run to the shelters? 
+### Which places had the highest count of rocket alarms going off and how many times did the inhabitants have to run to the shelters? 
 
 <br>
 
@@ -67,7 +68,7 @@
 
 
 
-### Which regions had the most days with rocket alarms going off?
+### Which regions had the most individual days with rocket alarms going off?
 
 <br>
 
