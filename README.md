@@ -40,7 +40,7 @@
 
 <br>
 
-### Rockt alarms distribution on an hourly scale:
+### Rocket alarms distribution on an hourly scale:
 
 <br>
 
@@ -89,15 +89,16 @@
 
 
 
-### Which places in the Tel-Aviv area had the most alarms going off?
+### Which places in the Tel-Aviv area had the most rocket alarms going off?
 
 <br>
 
 
-![image](https://github.com/user-attachments/assets/56a233eb-26f3-43ab-a220-6ad4e5edcd16)
+![image](https://github.com/user-attachments/assets/af94887e-a471-473d-a122-19bd823977d8)
 
 
-### What time of day did the rocket alarms in the Tel-Aviv area have the most alarms going off?
+
+### What time of the day did the rocket alarms in the Tel-Aviv area have the most alarms going off?
 
 ![image](https://github.com/user-attachments/assets/12af8964-bd62-447a-b5e3-cd46e888278a)
 
