@@ -61,7 +61,6 @@
 
 
 ### Which places had the highest count of rocket alarms going off and how many times did the inhabitants have to run to the shelters? 
-
 <br>
 
 ![image](https://github.com/user-attachments/assets/6130a742-ad02-418c-a7fe-f51a2ed52dac)
@@ -98,7 +97,7 @@
 
 
 
-### What time of the day did the rocket alarms in the Tel-Aviv area have the most alarms going off?
+### What time of the day did the Tel-Aviv area have the most alarms going off?
 
 ![image](https://github.com/user-attachments/assets/12af8964-bd62-447a-b5e3-cd46e888278a)
 
